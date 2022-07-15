@@ -40,6 +40,10 @@
     <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"
       alt="djangoREST"/>
   </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"
+      alt="selenium"/>
+  </a>
 <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://img.shields.io/badge/PyQt6-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white"
       alt="PyQt"/>
