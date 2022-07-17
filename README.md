@@ -17,66 +17,62 @@
 <div>
 <h2 align="center">Languages, frameworks and tools:</h2>
 <p align="center">
-  <a href="https://www.w3schools.com/css/" target="_blank">
+  <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"
       alt="python"/>
   </a>
-  <a href="https://www.w3.org/html/" target="_blank"> 
+  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"> 
     <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
       alt="html5"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
-      alt="css3"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.w3schools.com/css/" target="_blank">
+  <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"
       alt="django"/>
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
+  <a href="https://www.django-rest-framework.org/" target="_blank">
     <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"
       alt="djangoREST"/>
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
+  <a href="https://selenium-python.readthedocs.io/" target="_blank">
     <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"
       alt="selenium"/>
   </a>
-<a href="https://www.w3schools.com/css/" target="_blank">
+<a href="https://pypi.org/project/PyQt6/" target="_blank">
     <img src="https://img.shields.io/badge/PyQt6-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white"
       alt="PyQt"/>
 </a>
-<a href="https://www.w3schools.com/css/" target="_blank">
+<a href="https://numpy.org/" target="_blank">
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"
       alt="numpy"/>
   </a>
   
-  <a href="https://www.w3schools.com/css/" target="_blank">
+  <a href="https://pandas.pydata.org/" target="_blank">
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"
       alt="pandas"/>
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
+  <a href="https://streamlit.io/" target="_blank">
     <img src="https://img.shields.io/badge/Streamlit-%23D00000.svg?style=for-the-badge&logoColor=white"
       alt="streamlitt"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.w3schools.com/css/" target="_blank">
+  <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"
       alt="GIT"/>
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
+  <a href="https://github.com/" target="_blank">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub"/>
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
+  <a href="https://www.docker.com/" target="_blank">
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"
       alt="docker"/>
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
+  <a href="https://www.linux.org/" target="_blank">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
       alt="linux"/>
   </a>
