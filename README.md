@@ -84,7 +84,7 @@
     <h2 align="center">☎️ you can reach me by:</h2>
     <p align="center">
       <br/>
-      <a href="https://www.linkedin.com/in/ayxan-shahsuvarov-59a314187/" target="blank"><img align="center"
+      <a href="https://www.linkedin.com/in/aykhan-shahsuvarov-59a314187/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="Ayxan Shahsuvarov" height="30"/></a>
       <a href="https://mailto:ayxan.shahsuvarov1@gmail.com" target="blank"><img align="center"
