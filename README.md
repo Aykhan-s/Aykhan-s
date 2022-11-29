@@ -99,9 +99,6 @@
       <a href="https://wa.me/+994998998951" target="blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="+994998998951" height="30"/></a>
-      <a href="https://twitter.com/03Ayxan" target="blank"><img align="center"
-         src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
-         alt="@03Ayxan" height="30"/></a>
       <br>
     </p>
   </samp>
