@@ -93,7 +93,7 @@
          alt="Ayxan Shahsuvarov" height="30"/></a>
       <a href="https://mailto:ayxan.shahsuvarov1@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="ayxan.shahsuvarov1@gmail.com" height="30"/></a>
+         alt="aykhan.shahs0@gmail.com" height="30"/></a>
     </p>
   <p align="center">
       <a href="https://wa.me/+994998998951" target="blank"><img align="center"
