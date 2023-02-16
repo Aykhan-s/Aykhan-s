@@ -2,13 +2,13 @@
 <div>
   <h2 align="center"> 📊 Github stats </h2>
         <p align="center">
-          <a href="https://github.com/Ayxan-z/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayxan-z&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="Ayxan-z :: Top Langs" /></a>
+          <a href="https://github.com/Aykhan-s/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aykhan-s&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="Aykhan-s :: Top Langs" /></a>
         </p>
         <p align="center">
-          <a href="https://github.com/Ayxan-z/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Ayxan-z&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayxan-z&theme=gruvbox&hide_border=true" />
+          <a href="https://github.com/Aykhan-s/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Aykhan-s&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aykhan-s&theme=gruvbox&hide_border=true" />
           </a>
        </p>
      <br>
