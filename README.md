@@ -1,5 +1,3 @@
-<a href="https://aykhans.me">aykhans.me</a>
-
 <div>
   <h2 align="center"> 📊 Github stats </h2>
         <p align="center">
