@@ -39,9 +39,9 @@
     <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"
       alt="selenium"/>
   </a>
-<a href="https://pypi.org/project/PyQt6/" target="_blank">
-    <img src="https://img.shields.io/badge/PyQt6-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white"
-      alt="PyQt"/>
+<a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"
+      alt="FastAPI"/>
 </a>
 <a href="https://numpy.org/" target="_blank">
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"
