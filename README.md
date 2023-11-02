@@ -7,7 +7,6 @@
         <p align="center">
           <a href="https://github.com/Aykhan-s/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Aykhan-s&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aykhan-s&theme=gruvbox&hide_border=true" />
           </a>
        </p>
      <br>
