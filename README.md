@@ -5,12 +5,12 @@
 <div>
   <h2 align="center"> 📊 Github stats </h2>
         <p align="center">
-          <a href="https://github.com/Aykhan-s/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aykhan-s&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="Aykhan-s :: Top Langs" /></a>
+          <a href="https://github.com/aykhans">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aykhans&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="aykhans :: Top Langs" /></a>
         </p>
         <p align="center">
-          <a href="https://github.com/Aykhan-s/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Aykhan-s&show_icons=true&theme=gruvbox&hide_border=true" />
+          <a href="https://github.com/aykhans/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=aykhans&show_icons=true&theme=gruvbox&hide_border=true" />
           </a>
        </p>
      <br>
