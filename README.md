@@ -97,6 +97,11 @@
       <a href="https://www.linkedin.com/in/aykhan-shahsuvarov-59a314187/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="Ayxan Shahsuvarov" height="30"/></a>
+      <a href="mailto:hi@aykhans.me" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="hi@aykhans.me" height="30"/></a>
+    </p>
+  <p align="center">
       <a href="https://wa.me/+994998998951" target="blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="+994998998951" height="30"/></a>
